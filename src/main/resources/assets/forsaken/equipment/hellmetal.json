@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "forsaken:hellmetal"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "forsaken:hellmetal"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "forsaken:hellmetal"
+      }
+    ]
+  }
+}

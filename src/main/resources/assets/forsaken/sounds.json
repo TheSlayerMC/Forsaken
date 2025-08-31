@@ -1,0 +1,1050 @@
+
+{
+  "block.mud.break": {
+    "sounds": [
+      "forsaken:blocks/break/mud_1",
+      "forsaken:blocks/break/mud_2",
+      "forsaken:blocks/break/mud_3",
+      "forsaken:blocks/break/mud_4",
+      "forsaken:blocks/break/mud_5"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.mud.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/mud_1",
+      "forsaken:blocks/dig/mud_2",
+      "forsaken:blocks/dig/mud_3",
+      "forsaken:blocks/dig/mud_4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "misc.epic_sound_0": {
+    "sounds": [
+      "forsaken:misc/epic_sound_0"
+    ]
+  },
+  "misc.dialog_basic": {
+    "sounds": [
+      "forsaken:misc/dialog_basic"
+    ]
+  },
+
+  "misc.portal.euca": {
+    "sounds": [
+      "forsaken:misc/portal/euca_portal"
+    ]
+  },
+
+  "misc.portal.frozen": {
+    "sounds": [
+      "forsaken:misc/portal/frozen_portal"
+    ]
+  },
+
+  "misc.portal.boil": {
+    "sounds": [
+      "forsaken:misc/portal/boil_portal"
+    ]
+  },
+
+  "misc.portal.depths": {
+    "sounds": [
+      "forsaken:misc/portal/depths_portal"
+    ]
+  },
+
+  "misc.portal.corba": {
+    "sounds": [
+      "forsaken:misc/portal/corba_portal"
+    ]
+  },
+
+  "misc.portal.cloudia": {
+    "sounds": [
+      "forsaken:misc/portal/cloudia_portal"
+    ]
+  },
+
+  "misc.portal.senterian": {
+    "sounds": [
+      "forsaken:misc/portal/senterian_portal"
+    ]
+  },
+
+  "block.icicle.break": {
+    "sounds": [
+      "forsaken:blocks/break/icicle_1",
+      "forsaken:blocks/break/icicle_2",
+      "forsaken:blocks/break/icicle_3"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.icicle.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/icicle_1",
+      "forsaken:blocks/dig/icicle_2",
+      "forsaken:blocks/dig/icicle_3"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.pottery.break": {
+    "sounds": [
+      "forsaken:blocks/break/pottery_1",
+      "forsaken:blocks/break/pottery_2",
+      "forsaken:blocks/break/pottery_3"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.pottery.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/pottery_1",
+      "forsaken:blocks/dig/pottery_2",
+      "forsaken:blocks/dig/pottery_3"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "items.bottle_plug": {
+    "sounds": [
+      "forsaken:items/bottle_plug"
+    ]
+  },
+  "music.toast": {
+    "sounds": [
+      "forsaken:music/toast"
+    ]
+  },
+  "music.toast_special": {
+    "sounds": [
+      "forsaken:music/toast_special"
+    ]
+  },
+  "block.grassy_permafrost.break": {
+    "sounds": [
+      "forsaken:blocks/break/grassy_permafrost_1",
+      "forsaken:blocks/break/grassy_permafrost_2",
+      "forsaken:blocks/break/grassy_permafrost_3",
+      "forsaken:blocks/break/grassy_permafrost_4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.grassy_permafrost.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/grassy_permafrost_1",
+      "forsaken:blocks/dig/grassy_permafrost_2",
+      "forsaken:blocks/dig/grassy_permafrost_3",
+      "forsaken:blocks/dig/grassy_permafrost_4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.crumbled_permafrost.break": {
+    "sounds": [
+      "forsaken:blocks/break/crumbled_permafrost_1",
+      "forsaken:blocks/break/crumbled_permafrost_2",
+      "forsaken:blocks/break/crumbled_permafrost_3",
+      "forsaken:blocks/break/crumbled_permafrost_4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.crumbled_permafrost.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/crumbled_permafrost_1",
+      "forsaken:blocks/dig/crumbled_permafrost_2",
+      "forsaken:blocks/dig/crumbled_permafrost_3",
+      "forsaken:blocks/dig/crumbled_permafrost_4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.permafrost.break": {
+    "sounds": [
+      "forsaken:blocks/break/permafrost_1",
+      "forsaken:blocks/break/permafrost_2",
+      "forsaken:blocks/break/permafrost_3",
+      "forsaken:blocks/break/permafrost_4",
+      "forsaken:blocks/break/permafrost_5"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.permafrost.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/permafrost_1",
+      "forsaken:blocks/dig/permafrost_2",
+      "forsaken:blocks/dig/permafrost_3",
+      "forsaken:blocks/dig/permafrost_4",
+      "forsaken:blocks/dig/permafrost_5",
+      "forsaken:blocks/dig/permafrost_6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.brick.break": {
+    "sounds": [
+      "forsaken:blocks/break/brick_1",
+      "forsaken:blocks/break/brick_2",
+      "forsaken:blocks/break/brick_3",
+      "forsaken:blocks/break/brick_4",
+      "forsaken:blocks/break/brick_5",
+      "forsaken:blocks/break/brick_6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.brick.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/brick_1",
+      "forsaken:blocks/dig/brick_2",
+      "forsaken:blocks/dig/brick_3",
+      "forsaken:blocks/dig/brick_4",
+      "forsaken:blocks/dig/brick_5",
+      "forsaken:blocks/dig/brick_6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.fumice.break": {
+    "sounds": [
+      "forsaken:blocks/break/fumice_1",
+      "forsaken:blocks/break/fumice_2",
+      "forsaken:blocks/break/fumice_3",
+      "forsaken:blocks/break/fumice_4",
+      "forsaken:blocks/break/fumice_5",
+      "forsaken:blocks/break/fumice_6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.fumice.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/fumice_1",
+      "forsaken:blocks/dig/fumice_2",
+      "forsaken:blocks/dig/fumice_3",
+      "forsaken:blocks/dig/fumice_4",
+      "forsaken:blocks/dig/fumice_5",
+      "forsaken:blocks/dig/fumice_6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.lunium_ore.break": {
+    "sounds": [
+      "forsaken:blocks/break/lunium_ore_1",
+      "forsaken:blocks/break/lunium_ore_2",
+      "forsaken:blocks/break/lunium_ore_3",
+      "forsaken:blocks/break/lunium_ore_4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.lunium_block.break": {
+    "sounds": [
+      "forsaken:blocks/break/lunium_block_1",
+      "forsaken:blocks/break/lunium_block_2",
+      "forsaken:blocks/break/lunium_block_3",
+      "forsaken:blocks/break/lunium_block_4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.lunium_block.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/lunium_block_1",
+      "forsaken:blocks/dig/lunium_block_2",
+      "forsaken:blocks/dig/lunium_block_3",
+      "forsaken:blocks/dig/lunium_block_4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.shadium_ore.break": {
+    "sounds": [
+      "forsaken:blocks/break/shadium_ore_1",
+      "forsaken:blocks/break/shadium_ore_2",
+      "forsaken:blocks/break/shadium_ore_3",
+      "forsaken:blocks/break/shadium_ore_4",
+      "forsaken:blocks/break/shadium_ore_5",
+      "forsaken:blocks/break/shadium_ore_6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.shadium_block.break": {
+    "sounds": [
+      "forsaken:blocks/break/shadium_block_1",
+      "forsaken:blocks/break/shadium_block_2",
+      "forsaken:blocks/break/shadium_block_3",
+      "forsaken:blocks/break/shadium_block_4",
+      "forsaken:blocks/break/shadium_block_5",
+      "forsaken:blocks/break/shadium_block_6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.shadium_block.dig": {
+    "sounds": [
+      "forsaken:blocks/dig/shadium_block_1",
+      "forsaken:blocks/dig/shadium_block_2",
+      "forsaken:blocks/dig/shadium_block_3",
+      "forsaken:blocks/dig/shadium_block_4",
+      "forsaken:blocks/dig/shadium_block_5",
+      "forsaken:blocks/dig/shadium_block_6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.ice_crystal.break": {
+    "sounds": [
+      "forsaken:blocks/break/ice_crystal_1",
+      "forsaken:blocks/break/ice_crystal_2",
+      "forsaken:blocks/break/ice_crystal_3",
+      "forsaken:blocks/break/ice_crystal_4",
+      "forsaken:blocks/break/ice_crystal_5",
+      "forsaken:blocks/break/ice_crystal_6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.rune.activate": {
+    "sounds": [
+      "forsaken:blocks/activate/rune_activate"
+    ]
+  },
+  "block.essencia_altar.activate": {
+    "sounds": [
+      "forsaken:blocks/activate/essencia_altar_activate"
+    ]
+  },
+  "items.staff.staff_0": {
+    "sounds": [
+      "forsaken:items/staff/staff_0"
+    ]
+  },
+  "items.cannon": {
+    "sounds": [
+      "forsaken:items/cannon"
+    ]
+  },
+  "items.hammer": {
+    "sounds": [
+      "forsaken:items/hammer"
+    ]
+  },
+  "items.crystal_apple.freeze": {
+    "sounds": [
+      "forsaken:items/crystal_apple_freeze"
+    ]
+  },
+  "items.crystal_apple.unfreeze": {
+    "sounds": [
+      "forsaken:items/crystal_apple_unfreeze"
+    ]
+  },
+  "items.loot": {
+    "sounds": [
+      "forsaken:items/loot"
+    ]
+  },
+  "items.miners_pearl": {
+    "sounds": [
+      "forsaken:items/miners_pearl"
+    ]
+  },
+  "entities.hongo_ambient": {
+    "sounds": [
+      "forsaken:entities/hongo_ambient"
+    ]
+  },
+  "entities.hongo_hurt": {
+    "sounds": [
+      "forsaken:entities/hongo_hurt"
+    ]
+  },
+  "entities.small_hongo": {
+    "sounds": [
+      "forsaken:entities/small_hongo"
+    ]
+  },
+  "entities.small_hongo_hurt": {
+    "sounds": [
+      "forsaken:entities/small_hongo_hurt"
+    ]
+  },
+  "entities.hongo_death": {
+    "sounds": [
+      "forsaken:entities/hongo_death"
+    ]
+  },
+  "entities.hongo_spore_release": {
+    "sounds": [
+      "forsaken:entities/hongo_spore_release"
+    ]
+  },
+
+  "entities.terraslug": {
+    "sounds": [
+      "forsaken:entities/terraslug"
+    ]
+  },
+  "entities.terraslug_hurt": {
+    "sounds": [
+      "forsaken:entities/terraslug_hurt"
+    ]
+  },
+  "entities.terraslug_death": {
+    "sounds": [
+      "forsaken:entities/terraslug_death"
+    ]
+  },
+
+  "entities.sorcerer_death": {
+    "sounds": [
+      "forsaken:entities/sorcerer_death"
+    ]
+  },
+  "entities.sorcerer_hurt": {
+    "sounds": [
+      "forsaken:entities/sorcerer_hurt"
+    ]
+  },
+  "entities.sorcerer": {
+    "sounds": [
+      "forsaken:entities/sorcerer"
+    ]
+  },
+
+  "entities.robot": {
+    "sounds": [
+      "forsaken:entities/robot"
+    ]
+  },
+  "entities.robot_hurt": {
+    "sounds": [
+      "forsaken:entities/robot_hurt"
+    ]
+  },
+  "entities.robot_death": {
+    "sounds": [
+      "forsaken:entities/robot_death"
+    ]
+  },
+
+  "entities.ferret": {
+    "sounds": [
+      "forsaken:entities/ferret1",
+      "forsaken:entities/ferret2",
+      "forsaken:entities/ferret3"
+    ]
+  },
+  "entities.ferret_hurt": {
+    "sounds": [
+      "forsaken:entities/ferret_hurt"
+    ]
+  },
+  "entities.ferret_death": {
+    "sounds": [
+      "forsaken:entities/ferret_death"
+    ]
+  },
+
+
+  "entities.spiked_beast": {
+    "sounds": [
+      "forsaken:entities/spiked_beast"
+    ]
+  },
+  "entities.spiked_beast_hurt": {
+    "sounds": [
+      "forsaken:entities/spiked_beast_hurt"
+    ]
+  },
+
+  "entities.spyclops": {
+    "sounds": [
+      "forsaken:entities/spyclops"
+    ]
+  },
+  "entities.spyclops_hurt": {
+    "sounds": [
+      "forsaken:entities/spyclops_hurt"
+    ]
+  },
+
+  "entities.turtle": {
+    "sounds": [
+      "forsaken:entities/turtle"
+    ]
+  },
+  "entities.turtle_hurt": {
+    "sounds": [
+      "forsaken:entities/turtle_hurt"
+    ]
+  },
+
+  "entities.reaper": {
+    "sounds": [
+      "forsaken:entities/reaper"
+    ]
+  },
+  "entities.reaper_hurt": {
+    "sounds": [
+      "forsaken:entities/reaper_hurt"
+    ]
+  },
+
+
+  "entities.sand_crawler": {
+    "sounds": [
+      "forsaken:entities/sand_crawler"
+    ]
+  },
+  "entities.depths_hunter": {
+    "sounds": [
+      "forsaken:entities/depths_hunter"
+    ]
+  },
+  "entities.depths_hunter_hurt": {
+    "sounds": [
+      "forsaken:entities/depths_hunter_hurt"
+    ]
+  },
+  "entities.okoloo_hurt": {
+    "sounds": [
+      "forsaken:entities/okoloo_hurt"
+    ]
+  },
+  "entities.okoloo": {
+    "sounds": [
+      "forsaken:entities/okoloo"
+    ]
+  },
+
+  "entities.calcia": {
+    "sounds": [
+      "forsaken:entities/calcia"
+    ]
+  },
+  "entities.dynaster": {
+    "sounds": [
+      "forsaken:entities/dynaster"
+    ]
+  },
+
+  "entities.dynaster_hurt": {
+    "sounds": [
+      "forsaken:entities/dynaster_hurt"
+    ]
+  },
+
+  "entities.dynaster_death": {
+    "sounds": [
+      "forsaken:entities/dynaster_death"
+    ]
+  },
+  "entities.shimmerer": {
+    "sounds": [
+      "forsaken:entities/shimmerer"
+    ]
+  },
+
+  "entities.shimmerer_hurt": {
+    "sounds": [
+      "forsaken:entities/shimmerer_hurt"
+    ]
+  },
+
+  "entities.shimmerer_death": {
+    "sounds": [
+      "forsaken:entities/shimmerer_death"
+    ]
+  },
+  "entities.bush": {
+    "sounds": [
+      "forsaken:entities/bush"
+    ]
+  },
+
+  "entities.bush_hurt": {
+    "sounds": [
+      "forsaken:entities/bush_hurt"
+    ]
+  },
+  "entities.bush_death": {
+    "sounds": [
+      "forsaken:entities/bush_death"
+    ]
+  },
+
+  "entities.wraith": {
+    "sounds": [
+      "forsaken:entities/wraith"
+    ]
+  },
+
+  "entities.wraith_death": {
+    "sounds": [
+      "forsaken:entities/wraith_death"
+    ]
+  },
+  "entities.wraith_hurt": {
+    "sounds": [
+      "forsaken:entities/wraith_hurt"
+    ]
+  },
+
+  "entities.overseer": {
+    "sounds": [
+      "forsaken:entities/overseer"
+    ]
+  },
+
+  "entities.overseer_hurt": {
+    "sounds": [
+      "forsaken:entities/overseer_hurt"
+    ]
+  },
+  "entities.overseer_death": {
+    "sounds": [
+      "forsaken:entities/overseer_death"
+    ]
+  },
+
+  "entities.stinky": {
+    "sounds": [
+      "forsaken:entities/stinky"
+    ]
+  },
+
+  "entities.stinky_hurt": {
+    "sounds": [
+      "forsaken:entities/stinky_hurt"
+    ]
+  },
+  "entities.stinky_death": {
+    "sounds": [
+      "forsaken:entities/stinky_death"
+    ]
+  },
+
+  "entities.bird": {
+    "sounds": [
+      "forsaken:entities/bird"
+    ]
+  },
+
+  "entities.bird_hurt": {
+    "sounds": [
+      "forsaken:entities/bird_hurt"
+    ]
+  },
+  "entities.bird_death": {
+    "sounds": [
+      "forsaken:entities/bird_death"
+    ]
+  },
+
+  "entities.rock": {
+    "sounds": [
+      "forsaken:entities/rock"
+    ]
+  },
+
+  "entities.cave_mob": {
+    "sounds": [
+      "forsaken:entities/cave_mob"
+    ]
+  },
+  "entities.base_mob_hurt": {
+    "sounds": [
+      "forsaken:entities/base_mob_hurt"
+    ]
+  },
+
+  "entities.lavasnake_idle": {
+    "sounds": [
+      "forsaken:entities/lavasnake_idle"
+    ]
+  },
+
+  "entities.lavasnake_hurt": {
+    "sounds": [
+      "forsaken:entities/lavasnake_hurt"
+    ]
+  },
+
+  "entities.calcia_idle": {
+    "sounds": [
+      "forsaken:entities/calcia"
+    ]
+  },
+  "entities.calcia_hurt": {
+    "sounds": [
+      "forsaken:entities/calcia_hurt"
+    ]
+  },
+  "entities.blazier_idle":{
+    "sounds": [
+      "forsaken:entities/blazier_idle_0",
+      "forsaken:entities/blazier_idle_1",
+      "forsaken:entities/blazier_idle_2"
+    ]},
+  "entities.blazier_hurt":{
+    "sounds": [
+      "forsaken:entities/blazier_hit_0",
+      "forsaken:entities/blazier_hit_1",
+      "forsaken:entities/blazier_hit_2",
+      "forsaken:entities/blazier_hit_3"
+    ]},
+  "entities.sentry_ambient":{
+    "sounds": [
+      "forsaken:entities/sentry_ambient_1",
+      "forsaken:entities/sentry_ambient_2",
+      "forsaken:entities/sentry_ambient_3"
+    ]},
+  "entities.blazier_death":{
+    "sounds": [
+      "forsaken:entities/blazier_death"
+    ]},
+  "entities.glump_ambient": {
+    "sounds": [
+      "forsaken:entities/glump_ambient_0",
+      "forsaken:entities/glump_ambient_1"
+    ]
+  },
+  "entities.glump_hurt": {
+    "sounds": [
+      "forsaken:entities/glump_hurt"
+    ]
+  },
+  "entities.glump_death": {
+    "sounds": [
+      "forsaken:entities/glump_death"
+    ]
+  },
+  "entities.frozen_guardian_death": {
+    "sounds": [
+      "forsaken:entities/frozen_guardian_death"
+    ]
+  },
+  "entities.frozen_troll_ambient": {
+    "sounds": [
+      "forsaken:entities/frozen_troll_ambient_0",
+      "forsaken:entities/frozen_troll_ambient_1",
+      "forsaken:entities/frozen_troll_ambient_2"
+    ]
+  },
+  "entities.frozen_troll_hurt": {
+    "sounds": [
+      "forsaken:entities/frozen_troll_hurt_0",
+      "forsaken:entities/frozen_troll_hurt_1"
+    ]
+  },
+  "entities.frozen_troll_death": {
+    "sounds": [
+      "forsaken:entities/frozen_troll_death_0"
+    ]
+  },
+  "entities.frozen_troll_intrigued": {
+    "sounds": [
+      "forsaken:entities/frozen_troll_intrigued_0",
+      "forsaken:entities/frozen_troll_intrigued_1",
+      "forsaken:entities/frozen_troll_intrigued_2"
+    ]
+  },
+  "entities.rockite_smasher_hurt": {
+    "sounds": [
+      "forsaken:entities/rockite_smasher_hurt_0",
+      "forsaken:entities/rockite_smasher_hurt_1",
+	   "forsaken:entities/rockite_smasher_hurt_2"
+    ]
+  },
+    "entities.rockite_smasher_death": {
+    "sounds": [
+      "forsaken:entities/rockite_smasher_death"
+    ]
+  },
+  "entities.illager_mech_step": {
+    "sounds": [
+      "forsaken:entities/illager_mech_step_1",
+      "forsaken:entities/illager_mech_step_2",
+      "forsaken:entities/illager_mech_step_3",
+      "forsaken:entities/illager_mech_step_4"
+    ]
+  },
+  "entities.illager_mech_hurt": {
+    "sounds": [
+      "forsaken:entities/illager_mech_hurt_1",
+      "forsaken:entities/illager_mech_hurt_2",
+      "forsaken:entities/illager_mech_hurt_3",
+      "forsaken:entities/illager_mech_hurt_4"
+    ]
+  },
+  "entities.illager_mech_death": {
+    "sounds": [
+      "forsaken:entities/illager_mech_death"
+    ]
+  },
+  "entities.illager_mech_throw": {
+    "sounds": [
+      "forsaken:entities/illager_mech_throw"
+    ]
+  },
+  "entities.piercer": {
+    "sounds": [
+      "forsaken:entities/piercer_0",
+      "forsaken:entities/piercer_1",
+      "forsaken:entities/piercer_2",
+      "forsaken:entities/piercer_3",
+      "forsaken:entities/piercer_4",
+      "forsaken:entities/piercer_5",
+      "forsaken:entities/piercer_6"
+    ]
+  },
+  "entities.piercer_return": {
+    "sounds": [
+      "forsaken:entities/piercer_return"
+    ]
+  },
+  "misc.coin_pickup": {
+    "sounds": [
+      "forsaken:misc/coin_pickup"
+    ]
+  },
+  "entities.knife": {
+    "sounds": [
+      "forsaken:entities/knife"
+    ]
+  },
+  "misc.crystal_pickup": {
+    "sounds": [
+      "forsaken:misc/crystal_pickup"
+    ]
+  },
+  "misc.crystal_error": {
+    "sounds": [
+      "forsaken:misc/crystal_error"
+    ]
+  },
+
+  "misc.sentry_altar_activate": {
+    "sounds": [
+      "forsaken:misc/sentry_altar_activate"
+    ]
+  },
+
+  "misc.sentry_altar_deactivate": {
+    "sounds": [
+      "forsaken:misc/sentry_altar_deactivate"
+    ]
+  },
+
+  "misc.obelisk_idle": {
+    "sounds": [
+      "forsaken:misc/obelisk_idle"
+    ]
+  },
+
+  "misc.obelisk_open": {
+    "sounds": [
+      "forsaken:misc/obelisk_open"
+    ]
+  },
+
+  "music.dim.euca": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/dimensions/euca/euca_1",
+        "stream": true
+      },
+      {
+        "name": "forsaken:music/dimensions/euca/euca_2",
+        "stream": true
+      },
+      {
+        "name": "forsaken:music/dimensions/euca/euca_3",
+        "stream": true
+      }
+    ]
+  },
+  "music.dim.boil": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/dimensions/boil/boil_1",
+        "stream": true
+      }
+    ]
+  },
+  "music.dim.cloudia": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/dimensions/cloudia/cloudia_1",
+        "stream": true
+      },
+      {
+        "name": "forsaken:music/dimensions/cloudia/cloudia_2",
+        "stream": true
+      }
+    ]
+  },
+  "music.dim.corba": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/dimensions/corba/corba_1",
+        "stream": true
+      }
+    ]
+  },
+  "music.dim.depths": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/dimensions/depths/depths_1",
+        "stream": true
+      },
+      {
+        "name": "forsaken:music/dimensions/depths/depths_2",
+        "stream": true
+      }
+    ]
+  },
+  "music.dim.frozen": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/dimensions/frozen/frozen_1",
+        "stream": true
+      },
+      {
+        "name": "forsaken:music/dimensions/frozen/frozen_2",
+        "stream": true
+      }
+    ]
+  },
+  "music.dim.terrania": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/dimensions/terrania/terrania_1",
+        "stream": true
+      }
+    ]
+  },
+
+  "music.menu": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/menu",
+        "stream": true
+      }
+    ]
+  },
+  "music.haunt_muskie_2": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/haunt_muskie_2",
+        "stream": true
+      }
+    ]
+  },
+  "music.snowflakesss": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/snowflakesss",
+        "stream": true
+      }
+    ]
+  },
+  "music.guardian_tower": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/guardian_tower",
+        "stream": true
+      }
+    ]
+  },
+  "music.temple_guardian": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/temple_guardian",
+        "stream": true
+      }
+    ]
+  },
+  "music.euca.ambience": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/ambience/euca",
+        "stream": true
+      }
+    ]
+  },
+  "music.frozen.ambience": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/ambience/frozen",
+        "stream": true
+      }
+    ]
+  },
+  "music.biome.gold_plains": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/biome/gold_plains",
+        "stream": true
+      }
+    ]
+  },
+  "music.record.underwater_world": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/record/underwater_world",
+        "stream": true
+      }
+    ]
+  },
+
+  "music.record.euca_1": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/record/euca_1",
+        "stream": true
+      }
+    ]
+  },
+  "music.record.euca_2": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/record/euca_2",
+        "stream": true
+      }
+    ]
+  },
+  "music.record.euca_3": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/record/euca_3",
+        "stream": true
+      }
+    ]
+  },
+  "music.record.frozen_1": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/record/frozen_1",
+        "stream": true
+      }
+    ]
+  },
+  "music.record.boil_1": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "forsaken:music/record/boil_1",
+        "stream": true
+      }
+    ]
+  }
+}

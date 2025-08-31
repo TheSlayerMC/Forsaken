@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "forsaken:sapphire"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "forsaken:sapphire"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "forsaken:sapphire"
+      }
+    ]
+  }
+}

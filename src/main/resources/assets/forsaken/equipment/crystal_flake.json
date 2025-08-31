@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "forsaken:crystal_flake"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "forsaken:crystal_flake"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "forsaken:crystal_flake"
+      }
+    ]
+  }
+}

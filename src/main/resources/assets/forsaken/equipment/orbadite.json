@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "forsaken:orbadite"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "forsaken:orbadite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "forsaken:orbadite"
+      }
+    ]
+  }
+}

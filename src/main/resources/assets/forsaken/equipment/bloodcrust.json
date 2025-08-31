@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "forsaken:bloodcrust"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "forsaken:bloodcrust"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "forsaken:bloodcrust"
+      }
+    ]
+  }
+}
